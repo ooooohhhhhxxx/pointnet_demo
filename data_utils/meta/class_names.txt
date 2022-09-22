@@ -1,0 +1,16 @@
+barrier
+car
+cone
+handrail
+human
+light
+manhole
+midline
+edgeline
+motor
+road
+roadedge
+sign
+tree
+walkway
+lawn
